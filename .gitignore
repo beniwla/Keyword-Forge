@@ -1,0 +1,18 @@
+data
+
+# Ignore node_modules in all directories
+node_modules/
+
+# Ignore Python virtual environments
+.env/
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+*.env
+.env.local
+
+# ignore venv
+.venv
+

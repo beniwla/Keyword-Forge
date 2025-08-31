@@ -1,0 +1,15 @@
+# Example Configuration File - Copy this to config.yaml and modify
+brand_website: "https://your-website.com"
+competitor_website: "https://competitor-website.com"
+location: "India"
+
+# Add your seed keywords (optional keywords that can be included)
+seed_keywords: ["low fat protein", "gut healthy protein", "yeast protein"]
+
+# Adjust search settings
+min_search_volume: 1000
+
+# Set your budget allocation in USD
+shopping_ads_budget: 1500
+search_ads_budget: 2000
+pmax_ads_budget: 1000

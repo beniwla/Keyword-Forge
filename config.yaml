@@ -1,0 +1,15 @@
+# Keyword Research Configuration File
+brand_website: "https://superyou.in"
+competitor_website: "https://myprotein.com"
+location: "India"
+
+# Keywords based on SuperYou's products (optional) ["...", "...", "..."]
+seed_keywords: ["low fat protein", "gut healthy protein", "yeast protein"]
+
+# Search settings
+min_search_volume: 500
+
+# Budget allocation in USD
+shopping_ads_budget: 800
+search_ads_budget: 1200
+pmax_ads_budget: 600

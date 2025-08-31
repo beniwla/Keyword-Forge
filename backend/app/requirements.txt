@@ -1,0 +1,13 @@
+# Pin the ones that commonly break
+fastapi
+uvicorn[standard]
+httpx
+pydantic>=2.0,<3.0
+openai>=1.0,<2.0
+
+# Let these float (they're stable)
+pydantic-settings
+python-dotenv
+requests
+PyYAML==6.0.1
+
