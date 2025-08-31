@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import KeywordSearch from './keywordSearch';
+import KeywordSearch from './KeywordSearch';
 import './App.css';
 
 function App() {
